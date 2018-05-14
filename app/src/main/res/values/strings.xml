@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">first app</string>
+    <string name="homepage_title">Home page</string>
+    <string name="head">Let the game</string>
+    <string name="leftclick">0</string>
+    <string name="rightclick">0</string>
+    <string name="point">points: 0</string>
+    <string name="beg">Begin</string>
+</resources>
